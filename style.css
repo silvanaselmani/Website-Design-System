@@ -19,11 +19,11 @@ nav { float: right;
 } 
 
 
-}
+
 nav a { text-decoration: none;
     padding: 6px 0;
     margin-left:0;
-    color: #1d0130;
+    color: #490477;
 
       
       
@@ -120,3 +120,105 @@ a{
     font-size: 14px;
     font-weight: 400;
 }
+.button-style{
+    
+    width: 100%;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    margin: 4%;
+    font-weight: bolder; }
+.primary{
+        border-radius: 5px;
+        background-color: rgb(33, 21, 209);
+        color: #fff;
+        padding: 10px;
+        transition: all 0.4s ease 0s;
+        border:none;
+        width: 80px;
+
+        
+    }
+    
+    
+.secondary{
+        border-radius: 5px;
+        background-color: #626b69;
+        color: #fff;
+        padding: 10px;
+        transition: all 0.4s ease 0s;
+        border: none;
+        cursor: pointer;
+        width: 100px;
+    }
+    
+.success{
+        border-radius: 5px;;
+        background-color: rgb(13, 196, 13);
+        color: #fff;
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        width:75px;
+    }
+    
+.danger{
+        border-radius: 5px;
+        color: hsl(189, 33%, 96%);
+        padding: 10px;
+        transition: all 0.4s ease 0s;
+        cursor: pointer;
+        width:75px;
+        background-color: #ec300f;
+        
+    }
+
+.warning{
+        border-radius: 5px;
+        background-color: #e09813;
+        color: rgb(12, 9, 9);
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        width: 80px;
+        
+    }
+    
+.info{
+        border-radius: 5px;
+        background-color: rgb(36, 138, 163);
+        color: #fff;
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        width: 50px;
+    }
+.light{
+        border-radius: 5px;
+        background-color: rgb(237, 243, 245);
+        color: rgb(7, 7, 7);
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        width: 60px;
+    }
+.dark{
+        border-radius: 5px;
+        background-color: rgb(4, 5, 5);
+        color: #fff;
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        width: 60px;
+    }
+.link{
+        border-radius: 5px;
+        background-color: rgb(247, 251, 252);
+        color: rgb(58, 133, 245);
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        width: 60px;
+    }
+
