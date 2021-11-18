@@ -100,3 +100,23 @@ a{
 .praise {
     font-family: "Praise", serif;
 }
+#text-styles{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.text-styles h1{
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 700 (bold);
+    font-size: 26px;
+
+}
+.text-styles h2{
+    font-family: 'EB Garamond', serif;
+    font-weight: 500(bold);
+    font-size: 18px;
+}
+.text-styles p{
+    font-family: 'Roboto', serif;
+    font-size: 14px;
+    font-weight: 400;
+}
